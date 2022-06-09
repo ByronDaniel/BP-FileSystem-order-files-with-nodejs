@@ -1,5 +1,4 @@
 # BP-FileSystem-order-files-with-nodejs
-Se ordena a diferentes carpetas los archivos por su extension
 
 1. Copia los archivos que deseas ordenar en la carpeta src/Archivos Desordenados
 ![image](https://user-images.githubusercontent.com/53799994/172767199-6ef679d8-1471-469f-bef4-3e02eaba546a.png)
